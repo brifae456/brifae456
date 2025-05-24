@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Veterinary Surgcal Technician that is in the process of becoming a data scientist. I have graduated from Grand Canyon University with my bachelor's in Cybersecurity. I have completed a rigorous data science bootcamp from TripleTen that has given me skills and knowledge. Highly motivated and detail oriented, that is a fast learner looking for entry level position as a data analyst or data scientist.  Proficient in Python, SQL, C+ and Excel. Passionate in extracting insights from complex data sets, I am eager to contribute the acquired skills I have to help drive meaningful results. 
+I am a Veterinary Surgical Technician that is in the process of becoming a data scientist. I have graduated from Grand Canyon University with my bachelor's in Cybersecurity. I have completed a rigorous data science bootcamp from TripleTen that has given me skills and knowledge. Highly motivated and detail oriented, that is a fast learner looking for entry level position as a data analyst or data scientist.  Proficient in Python, SQL, C+ and Excel. Passionate in extracting insights from complex data sets, I am eager to contribute the acquired skills I have to help drive meaningful results. 
 
 ## My Skills
 
